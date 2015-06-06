@@ -1,0 +1,7 @@
+{
+  "name": "centos6",
+  "run_list": [
+    "role[centos6basic]",
+    "role[centos6ruby]"
+  ]
+}

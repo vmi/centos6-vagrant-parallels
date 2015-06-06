@@ -1,0 +1,9 @@
+{
+  "name": "centos6ruby",
+  "description": "Setup Ruby by rbenv on CentOS6",
+  "chef_type": "role",
+  "json_class": "Chef::Role",
+  "run_list": [
+    "recipe[rbenv]"
+  ]
+}

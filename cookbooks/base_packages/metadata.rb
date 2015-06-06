@@ -1,0 +1,7 @@
+name 'base_packages'
+maintainer 'Motonori IWAMURO'
+maintainer_email 'vmi@nifty.com'
+license 'mit'
+description 'Installs/Configures base packages for CentOS6'
+long_description 'Installs/Configures base packages for CentOS6'
+version '0.1.0'

@@ -1,0 +1,9 @@
+{
+  "name": "centos6basic",
+  "description": "Set basic environment of CentOS6",
+  "chef_type": "role",
+  "json_class": "Chef::Role",
+  "run_list": [
+    "recipe[base_packages]"
+  ]
+}
